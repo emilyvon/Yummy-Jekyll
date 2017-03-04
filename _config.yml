@@ -15,13 +15,14 @@ company_url: my_company_website
 github_url: https://github.com/emilyvon # ex. https://github.com/DONGChuan
 description: I Blog Everything
 favicon: favicon.png # Image must be in assets/images
-repository: https://github.com/emilyvon/Yummy-Jekyll # ex. DONGChuan/DONGChuan.github.io
+repository: emilyvon/emilyvon.github.io # ex. DONGChuan/DONGChuan.github.io
 
 # The base hostname & protocol for your site
 # For local test, please use http://localhost:4000
 # For production, use your github page url. ex. http://dongchuan.github.io
 #url: http://localhost:4000
 url: https://emilyvon.github.io
+baseurl: /Yummy-Jekyll
 
 ## Gem
 gems:
