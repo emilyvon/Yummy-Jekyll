@@ -15,7 +15,7 @@ company_url: my_company_website
 github_url: https://github.com/emilyvon # ex. https://github.com/DONGChuan
 description: I Blog Everything
 favicon: favicon.png # Image must be in assets/images
-repository: emilyvon/emilyvon.github.io # ex. DONGChuan/DONGChuan.github.io
+repository: https://github.com/emilyvon/Yummy-Jekyll # ex. DONGChuan/DONGChuan.github.io
 
 # The base hostname & protocol for your site
 # For local test, please use http://localhost:4000
