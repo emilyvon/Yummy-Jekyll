@@ -10,18 +10,18 @@ title: Emily Fung # ex. I m Chuan
 name: iEmRollin # ex. DONGChuan
 email: iemrollin@gmail.com
 location: Adelaide # ex. Nice, France
-company: MyCompany
-company_url: my_company_website
+company: iEmRollin
+company_url: https://emilyvon.github.io
 github_url: https://github.com/emilyvon # ex. https://github.com/DONGChuan
 description: I Blog Everything
-favicon: favicon.png # Image must be in assets/images
+favicon: profile.jpg # Image must be in assets/images
 repository: emilyvon/emilyvon.github.io # ex. DONGChuan/DONGChuan.github.io
 
 # The base hostname & protocol for your site
 # For local test, please use http://localhost:4000
 # For production, use your github page url. ex. http://dongchuan.github.io
-#url: http://localhost:4000
-url: https://emilyvon.github.io/Yummy-Jekyll
+url: http://localhost:4000
+#url: https://emilyvon.github.io
 
 
 ## Gem
